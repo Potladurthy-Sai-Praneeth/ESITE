@@ -72,8 +72,8 @@ const sendEmail = async(options) => {
         host: "smtp.mailtrap.io",
         port: 2525,
         auth: {
-            user: "e527d8bea5e1e2",
-            pass: "7298ff8d12af09",
+            user: "",//User your personal User Id
+            pass: "", //User your personal pass code
         },
     });
     const mailOptions = {

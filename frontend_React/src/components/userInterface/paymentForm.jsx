@@ -8,9 +8,7 @@ import {
   CardCvcElement,
 } from "@stripe/react-stripe-js";
 import { loadStripe } from "@stripe/stripe-js";
-const stripePromise = loadStripe(
-  "pk_test_51KsgN9SIhD4OerayAGOqw1f41eR4GJQMdM231t82O4qsoHoeF39UBENL83mFtOeTB8eq73thWgmknGecyJZT7Vol00VtWYIUfV"
-);
+const stripePromise = loadStripe(""); // User your personal publishable Stripe Api Keys
 
 const CARD_ELEMENT_OPTIONS = {
   style: {
@@ -171,11 +169,13 @@ export default function PaymentForm(props) {
               "DELETE_CART_ALL",
               `http://localhost:8081/api/deleteTotalCart/${userObj._id}`
             );
-          }}>
+          }}
+        >
           {loading ? (
             <div
               className="loader loader-border loader-border-sm text-light"
-              role="status"></div>
+              role="status"
+            ></div>
           ) : (
             `PAY ₹ ${new Intl.NumberFormat("en-IN").format(
               props.store.cartAmount
