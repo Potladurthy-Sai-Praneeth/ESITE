@@ -1,0 +1,729 @@
+[
+  {
+    "id": 1,
+    "prodname": "Apple iPhone XR (Red, 128 GB)",
+    "price": "67999",
+    "content": "128 GB ROM | 15.49 cm (6.1 inch) Display 12MP Rear Camera | 7MP Front Camera A12 Bionic Chip Processor",
+    "image": "https://i.imgur.com/KFojDGa.jpg",
+    "popularity": "high",
+    "category": "mobiles"
+  },
+  {
+    "id": 2,
+    "prodname": "Apple iPhone XS (Silver, 64 GB)",
+    "price": "99900",
+    "content": "64 GB ROM | 14.73 cm (5.8 inch) Super Retina HD Display 12MP + 12MP | 7MP Front Camera A12 Bionic Chip Processor",
+    "image": "https://i.imgur.com/KFojDGa.jpg",
+    "popularity": "moderate",
+    "category": "mobiles"
+  },
+  {
+    "id": 3,
+    "prodname": "Apple iPhone XS Max (Gold, 64 GB)",
+    "price": "109900",
+    "content": "64 GB ROM | 16.51 cm (6.5 inch) Super Retina HD Display 12MP + 12MP | 7MP Front Camera A12 Bionic Chip Processor",
+    "image": "https://i.imgur.com/KFojDGa.jpg",
+    "popularity": "moderate",
+    "category": "mobiles"
+  },
+  {
+    "id": 4,
+    "prodname": "OnePlus 7 Pro (Almond, 256 GB)",
+    "price": "52999",
+    "content": "Rear Camera|48MP (Primary)+ 8MP (Tele-photo)+16MP (ultrawide)| Front Camera|16 MP POP-UP Camera|8GB RAM|Android pie",
+    "image": "https://i.imgur.com/6IUbEME.jpg",
+    "popularity": "high",
+    "category": "mobiles"
+  },
+  {
+    "id": 5,
+    "prodname": "realme C21Y (Cross Black, 64 GB)",
+    "price": "8999",
+    "content": "64 GB ROM | 4 GB RAM | 16.51 cm (6.5 inch) Display 13MP+2MP+2MP Rear Camera | 5MP Front Camera ",
+    "image": "https://unionstore.com/image/cache/catalog/Realme/realme-c21y%20blue-600x800.jpg",
+    "popularity": "moderate",
+    "category": "mobiles"
+  },
+  {
+    "id": 6,
+    "prodname": "POCO M3 (Cool Blue, 64 GB)",
+    "price": "10249",
+    "content": "64 GB ROM | 4 GB RAM | 16.59 cm (6.53 inch) Display 48MP+2MP+2MP Rear Camera | 8MP Front Camera ",
+    "image": "https://www.askmea2z.com/inventory_images/28977.jpg",
+    "popularity": "moderate",
+    "category": "mobiles"
+  },
+  {
+    "id": 7,
+    "prodname": "Apple iPhone 12 Mini (Black, 64 GB)",
+    "price": "40999",
+    "content": "64 GB ROM | 13.72 cm (5.4 inch) Display 64MP+2MP+2MP Rear Camera | 12MP Front Camera 810 5G Processor",
+    "image": "https://almali.store/wp-content/uploads/2021/01/71uuDYxn3XL._SL1500_-2.jpg",
+    "popularity": "moderate",
+    "category": "mobiles"
+  },
+  {
+    "id": 8,
+    "prodname": "Infinix Smart 5A (Quetzal Cyan, 32 GB)",
+    "price": "6499",
+    "content": "32 GB ROM | 16.56 cm (6.52 inch) Display 8MP Rear Camera | 8MP Front Camera ",
+    "image": "https://www.mobilesjin.com/wp-content/uploads/2020/09/Infinix-Smart-5-Price-in-pakistan.jpg",
+    "popularity": "low",
+    "category": "mobiles"
+  },
+  {
+    "id": 9,
+    "prodname": "Apple iPhone XR (Black, 128 GB)",
+    "price": "68999",
+    "content": "128 GB ROM | 15.49 cm (6.1 inch) Display 12MP Rear Camera | 7MP Front Camera A15 Bionic Chip Processor",
+    "image": "https://i.imgur.com/KFojDGa.jpg",
+    "popularity": "high",
+    "category": "mobiles"
+  },
+  {
+    "id": 10,
+    "prodname": "OnePlus 6 (Gold, 128 GB)",
+    "price": "39999",
+    "content": "Rear Camera|48MP (Primary)+ 8MP (Tele-photo)+8MP (ultrawide)| 12 MP Front Camera  |6GB RAM|Oxygen OS",
+    "image": "https://i.imgur.com/6IUbEME.jpg",
+    "popularity": "high",
+    "category": "mobiles"
+  },
+
+  {
+    "id": 1,
+    "prodname": "ASUS TUF Gaming F15",
+    "price": "57990",
+    "content": "15.6-inch FHD 144Hz, Intel Core i5-10300H 10th Gen, GTX 1650 Ti GDDR6 4GB Graphics, Gaming Laptop (8GB RAM/512GB SSD/Windows 10/Fortress Gray/2.3 Kg)",
+    "image": "https://m.media-amazon.com/images/I/914o5xV1+8L._SL1500_.jpg",
+    "popularity": "high",
+    "category": "laptops"
+  },
+  {
+    "id": 2,
+    "prodname": "HP 14 (2021)",
+    "price": "42994",
+    "content": "11th Gen Intel Core i3 Laptop with Alexa Built-in, 8GB RAM, 256GB SSD, 14-Inch (35.6 cm) FHD Screen, Windows 10, MS Office, (14s- dy2501tu)",
+    "image": "https://m.media-amazon.com/images/I/71bJqS8ZLTL._SL1500_.jpg",
+    "popularity": "moderate",
+    "category": "laptops"
+  },
+  {
+    "id": 3,
+    "prodname": "Lenovo Ideapad Slim 3 ",
+    "price": "35990",
+    "content": "10th Gen Intel Core i3 15.6-Inch (39.62cm) FHD Thin & Light Laptop (8GB/256 GB SSD/UHD Graphics/Windows 10/MS Office/2 Year Warranty/Platinum Grey/1.7Kg), 81WB012DIN",
+    "image": "https://m.media-amazon.com/images/I/61Dw5Z8LzJL._SL1000_.jpg",
+    "popularity": "moderate",
+    "category": "laptops"
+  },
+  {
+    "id": 4,
+    "prodname": "HP 15 (2021)",
+    "price": "39990",
+    "content": "Thin & Light 11th Gen Core i3 Laptop, 8 GB RAM, 1TB HDD, M.2 Slot, 15.6-inch (39.62 cms) FHD Screen, Windows 10, MS Office, (15s-dy3001TU)",
+    "image": "https://m.media-amazon.com/images/I/81Ne5qKmE8L._SL1500_.jpg",
+    "popularity": "high",
+    "category": "laptops"
+  },
+  {
+    "id": 5,
+    "prodname": "Victus ",
+    "price": "61990",
+    "content": "HP Ryzen 5 5600H 16.1-inch(40.9 cm) FHD Gaming Laptop (8GB RAM/512GB SSD/4GB GTX 1650 Graphics/Flicker Free Display/Windows 10/MS Office/Mica Silver/2.48 Kg), 16-e0075AX, Black",
+    "image": "https://m.media-amazon.com/images/I/71h7F81EBoS._SL1500_.jpg",
+    "popularity": "moderate",
+    "category": "laptops"
+  },
+  {
+    "id": 6,
+    "prodname": "2020 Apple MacBook Pro ",
+    "price": "127990",
+    "content": "13.3-inch/33.78 cm, Apple M1 chip with 8-core CPU and 8-core GPU, 8GB RAM, 512GB SSD - Space Grey",
+    "image": "https://m.media-amazon.com/images/I/71an9eiBxpL._SL1500_.jpg",
+    "popularity": "moderate",
+    "category": "laptops"
+  },
+  {
+    "id": 7,
+    "prodname": "Dell 15 (2021)",
+    "price": "43490",
+    "content": "Ryzen 5-3450U Laptop, 8GB DDR4, 256GB SSD, Win 10 + MS Office, Vega Graphics, 15.6-Inch (39.61 cms) FHD Display, Soft Mint (Inspiron 3505)",
+    "image": "https://m.media-amazon.com/images/I/51TACuT6SNL._SL1000_.jpg",
+    "popularity": "low",
+    "category": "laptops"
+  },
+  {
+    "id": 8,
+    "prodname": "Acer Swift 5 ",
+    "price": "73290",
+    "content": "Intel i5 - 11th Gen 14 inches Full HD IPS Display with Touchscreen Ultra Thin and Light Business Notebook (8GB RAM/512GB SSD/Windows 10/Iris Xe Graphics/1.05 Kg/Mist Green)",
+    "image": "https://m.media-amazon.com/images/I/71dO8-0q0eL._SL1500_.jpg",
+    "popularity": "moderate",
+    "category": "laptops"
+  },
+  {
+    "id": 9,
+    "prodname": "Mi Notebook Pro",
+    "price": "56990",
+    "content": " QHD+ IPS Anti Glare Display Intel Core i5-11300H 11th Gen 14-inch(35.56 cms) Thin and Light Laptop (16GB/512GB SSD/Iris Xe Graphics/Win 10/Backlit KB/Fingerprint Sensor/1.4 Kg)",
+    "image": "https://m.media-amazon.com/images/I/71iiXU7HHkL._SL1500_.jpg",
+    "popularity": "high",
+    "category": "laptops"
+  },
+  {
+    "id": 10,
+    "prodname": "Dell 15 (2021)",
+    "price": "79990",
+    "content": "i5-10500H Gaming Laptop, 16GB, 512GB SSD, Win 10 + MS Office, NVIDIA GTX 1650 4GB Graphics, 15.6-Inch (39.61 cms) FHD Display, Backlit KB Orange, Dark Shadow Grey (G15 5510, D560606WIN9B)",
+    "image": "https://m.media-amazon.com/images/I/61LVwo050hS._SL1080_.jpg",
+    "popularity": "high",
+    "category": "laptops"
+  },
+
+  {
+    "id": 1,
+    "prodname": "Samsung",
+    "price": "51990",
+    "content": "138 cm (55 inches) Crystal 4K Series Ultra HD Smart LED TV  (Black) (2021 Model)",
+    "image": "https://m.media-amazon.com/images/I/61GwJAhftvS._SL1500_.jpg",
+    "popularity": "high",
+    "category": "televisions"
+  },
+  {
+    "id": 2,
+    "prodname": "TCL 32P30S",
+    "price": "16990",
+    "content": "80 cm (32 inches) HD Ready Certified Android Smart LED TV 32P30S (Black)",
+    "image": "https://m.media-amazon.com/images/I/71ElwNt4ppL._SL1500_.jpg",
+    "popularity": "moderate",
+    "category": "televisions"
+  },
+  {
+    "id": 3,
+    "prodname": "OnePlus 32Y1",
+    "price": "19999",
+    "content": "80 cm (32 inches) Y Series HD Ready LED Smart Android TV 32Y1 (Black) (2020 Model)",
+    "image": "https://m.media-amazon.com/images/I/71vZypjNkPS._SL1500_.jpg",
+    "popularity": "moderate",
+    "category": "televisions"
+  },
+  {
+    "id": 4,
+    "prodname": "Mi L32M5-AL",
+    "price": "14999",
+    "content": "80 cm (32 inches) HD Ready Android Smart LED TV 4A PRO | L32M5-AL (Black)",
+    "image": "https://m.media-amazon.com/images/I/71Z+l05eSIS._SL1188_.jpg",
+    "popularity": "high",
+    "category": "televisions"
+  },
+  {
+    "id": 5,
+    "prodname": "Sony Bravia 43W6600",
+    "price": "46999",
+    "content": "108 cm (43 inches) Full HD Smart LED TV 43W6600 (Black) (2020 Model)",
+    "image": "https://m.media-amazon.com/images/I/91v4nFq0LuL._SL1500_.jpg",
+    "popularity": "moderate",
+    "category": "televisions"
+  },
+  {
+    "id": 6,
+    "prodname": "LG",
+    "price": "52990",
+    "content": "126 cm (50 inches) 4K Ultra HD Smart LED TV 50UM7290PTD (Ceramic BK + Dark Steel Silver)",
+    "image": "https://m.media-amazon.com/images/I/71tV-vh33tL._SL1500_.jpg",
+    "popularity": "moderate",
+    "category": "televisions"
+  },
+  {
+    "id": 7,
+    "prodname": "Mi 4X|L50M5-5AIN",
+    "price": "35999",
+    "content": "125.7 cm (50 Inches) 4K Ultra HD Android Smart LED TV (Black)",
+    "image": "https://m.media-amazon.com/images/I/61V7cDH8AAS._SL1188_.jpg",
+    "popularity": "high",
+    "category": "televisions"
+  },
+  {
+    "id": 8,
+    "prodname": "Redmi X50|L50M6-RA",
+    "price": "32999",
+    "content": "126 cm (50 inches) 4K Ultra HD Android Smart LED TV (Black) (2021 Model)",
+    "image": "https://m.media-amazon.com/images/I/81sscKjSPiL._SL1500_.jpg",
+    "popularity": "low",
+    "category": "televisions"
+  },
+  {
+    "id": 9,
+    "prodname": "Philips",
+    "price": "29999",
+    "content": "108 Cm (43 Inches) Full HD LED Android Smart LED TV 43PFT6915/94 (Black) (2021 Model) | With Google Assistant",
+    "image": "https://m.media-amazon.com/images/I/91wTY-X240L._SL1500_.jpg",
+    "popularity": "low",
+    "category": "televisions"
+  },
+  {
+    "id": 10,
+    "prodname": "Panasonic TH-58HX450DX",
+    "price": "54990",
+    "content": "147 cm (58 inches) 4K Ultra HD Certified Android Smart LED TV (Black) (2020 Model)",
+    "image": "https://m.media-amazon.com/images/I/91LzCxOO3fL._SL1500_.jpg",
+    "popularity": "high",
+    "category": "televisions"
+  },
+
+  {
+    "id": 1,
+    "prodname": "IFB",
+    "price": "14990",
+    "content": "30 L Convection Microwave Oven (30FRC2, Floral Pattern) (Black), STANDARD",
+    "image": "https://www.ifbappliances.com/media/catalog/product/cache/f6d60de4095a6e5204f81c04aa5b766f/3/0/30bc5_fv.png",
+    "popularity": "high",
+    "category": "microwave"
+  },
+  {
+    "id": 2,
+    "prodname": "Samsung",
+    "price": "10390",
+    "content": "23 L Solo Microwave Oven (MS23J5133AG/TL, Black)",
+    "image": "https://m.media-amazon.com/images/I/610H0eAFStL._SL1500_.jpg",
+    "popularity": "moderate",
+    "category": "microwave"
+  },
+  {
+    "id": 3,
+    "prodname": "Morphy Richards",
+    "price": "11990",
+    "content": "25 CG 25L Convection Microwave Oven with 200 Autocook Menus and Child Lock Feature, Stainless Steel Cavity, Silver",
+    "image": "https://m.media-amazon.com/images/I/81QxvD2XDGL._SL1500_.jpg",
+    "popularity": "moderate",
+    "category": "microwave"
+  },
+  {
+    "id": 4,
+    "prodname": "LG",
+    "price": "10390",
+    "content": "21 L Convection Microwave Oven (MC2146BG, Glossy Black, With Starter Kit)",
+    "image": "https://www.lg.com/in/images/microwave-ovens/md05265262/gallery/MC3286BRUM-microwave-ovens-Front-view-D-01.jpg",
+    "popularity": "high",
+    "category": "microwave"
+  },
+  {
+    "id": 5,
+    "prodname": "Whirlpool",
+    "price": "8755",
+    "content": "20 L Solo Microwave Oven (MAGICOOK PRO 20SE BLACK)",
+    "image": "https://m.media-amazon.com/images/I/61cqMkN3-0L._SL1500_.jpg",
+    "popularity": "high",
+    "category": "microwave"
+  },
+  {
+    "id": 6,
+    "prodname": "Panasonic",
+    "price": "6790",
+    "content": "20 L Solo Microwave Oven (NN-SM25JBFDG,Black)",
+    "image": "http://cdn.shopify.com/s/files/1/0447/6767/4533/products/1_3d198a22-4de8-430b-a9ec-ac9f589a0acb_1200x1200.png?v=1615476928",
+    "popularity": "moderate",
+    "category": "microwave"
+  },
+  {
+    "id": 7,
+    "prodname": "Croma",
+    "price": "7000",
+    "content": "20 Litres Solo Microwave Oven (CRM2025, Silver)",
+    "image": "https://m.media-amazon.com/images/I/615Oon6cZDL._SL1400_.jpg",
+    "popularity": "low",
+    "category": "microwave"
+  },
+  {
+    "id": 8,
+    "prodname": "Bajaj MTBX 2016",
+    "price": "7740",
+    "content": "20L Grill Microwave Oven, Black",
+    "image": "https://www.compareprix.in/images/product/large/bajaj-mtbx-2016-20-litres-grill-microwave-oven-1.jpg",
+    "popularity": "moderate",
+    "category": "microwave"
+  },
+  {
+    "id": 9,
+    "prodname": "LG",
+    "price": "14990",
+    "content": "28 L Convection Microwave Oven (MC2846BG, Black)",
+    "image": "https://www.lg.com/in/images/microwave-ovens/md06198076/gallery/MJEN326TL-Microoven-Front-View-D-01.jpg",
+    "popularity": "high",
+    "category": "microwave"
+  },
+  {
+    "id": 10,
+    "prodname": "Voltas",
+    "price": "13990",
+    "content": "20 L Convection Microwave Oven (Silver) MC20SD",
+    "image": "https://m.media-amazon.com/images/I/31Q3Q9kFmVL.jpg",
+    "popularity": "low",
+    "category": "microwave"
+  },
+
+  {
+    "id": 1,
+    "prodname": "boAt Rockerz 450 Pro",
+    "price": "2290",
+    "content": "On-Ear Headphones with 70 Hours Battery, 40mm Drivers, Bluetooth V5.0 Padded Ear Cushions, Easy Access Controls and Voice Assistant(Luscious Black)",
+    "image": "https://m.media-amazon.com/images/I/61jlFEwSt+L._SL1500_.jpg",
+    "popularity": "moderate",
+    "category": "audio"
+  },
+  {
+    "id": 2,
+    "prodname": "boAt Rockerz 330",
+    "price": "1099",
+    "content": "Wireless Neckband with ASAP Charge, Up to 30H Playback, Enhanced Bass, Metal Control Board, IPX5, Type C Port, Bluetooth v5.0, Voice Assistant(Navy Blue)",
+    "image": "https://m.media-amazon.com/images/I/514sHd2+YyS._SL1500_.jpg",
+    "popularity": "moderate",
+    "category": "audio"
+  },
+  {
+    "id": 3,
+    "prodname": "Sony WI-XB400",
+    "price": "2790",
+    "content": "Wireless Extra Bass in-Ear Headphones with 15 hrs Battery, Quick Charge, Magnetic Earbuds, Tangle Free Cord, BT 5.0 Bluetooth Headset (Blue)",
+    "image": "https://m.media-amazon.com/images/I/71+GXwLe23L._SL1500_.jpg",
+    "popularity": "high",
+    "category": "audio"
+  },
+  {
+    "id": 4,
+    "prodname": "JBL T460BT",
+    "price": "2699",
+    "content": "Wireless On Ear Headphones with Mic, Pure Bass, Portable, Lightweight & Flat Foldable, Voice Assistant Support for Mobiles (Black)",
+    "image": "https://m.media-amazon.com/images/I/71ynIMjwgwL._SL1500_.jpg",
+    "popularity": "high",
+    "category": "audio"
+  },
+  {
+    "id": 5,
+    "prodname": "Sony MDR-XB450AP ",
+    "price": "2199",
+    "content": "Wired Extra Bass On-Ear Headphones with Tangle Free Cable, 3.5mm Jack, Headset with Mic for Phone Calls and 1 Year Warranty - (Black)",
+    "image": "https://m.media-amazon.com/images/I/61t0HecIZbL._SL1250_.jpg",
+    "popularity": "moderate",
+    "category": "audio"
+  },
+  {
+    "id": 6,
+    "prodname": "Skullcandy Indy Fuel ",
+    "price": "7490",
+    "content": "Truly Wireless Bluetooth in Ear Earbuds with Mic (Chill Grey)",
+    "image": "https://m.media-amazon.com/images/I/61YIHKfUtML._SL1500_.jpg",
+    "popularity": "high",
+    "category": "audio"
+  },
+  {
+    "id": 7,
+    "prodname": "Apple AirPods Pro",
+    "price": "17990",
+    "content": "Active noise cancellation with Transparency mode, sweat and water resistance and a customisable fit",
+    "image": "https://m.media-amazon.com/images/I/71zny7BTRlL._SL1500_.jpg",
+    "popularity": "high",
+    "category": "audio"
+  },
+  {
+    "id": 8,
+    "prodname": "boAt Bassheads 100",
+    "price": "499",
+    "content": "In Ear Wired Earphones with Mic(RCB Raging Red)",
+    "image": "https://m.media-amazon.com/images/I/61w5uC+pTpL._SL1500_.jpg",
+    "popularity": "moderate",
+    "category": "audio"
+  },
+  {
+    "id": 9,
+    "prodname": "pTron Tangent Lite",
+    "price": "699",
+    "content": "Bluetooth 5.0 Wireless Headphones with Hi-Fi Stereo Sound, 8Hrs Playtime, Lightweight Ergonomic Neckband, Sweat-Resistant Magnetic Earbuds, Voice Assistant & Mic - (Black & Red)",
+    "image": "https://m.media-amazon.com/images/I/516P6a3hxXS._SL1100_.jpg",
+    "popularity": "moderate",
+    "category": "audio"
+  },
+  {
+    "id": 10,
+    "prodname": "Ant Audio Wave 506 - Orange",
+    "price": "399",
+    "content": "Wired in Ear Headset with Mic, Comfortable fit, Noise cancelling, Wide compatibility, Surround sound - equipped with high performance 7.1 audio and intelligent extreme bass enhances sound clarity.",
+    "image": "https://m.media-amazon.com/images/I/51rwHWsFdBL._SL1000_.jpg",
+    "popularity": "low",
+    "category": "audio"
+  },
+
+  {
+    "id": 1,
+    "prodname": "Whirlpool INTELLIFRESH ",
+    "price": "47990",
+    "content": "440 L 3 Star Inverter Frost-Free Double Door Refrigerator with Adaptive intelligence technology (Alpha Steel, Convertible)",
+    "image": "https://www.whirlpoolindia.com/media/catalog/product/cache/image/700x560/e9c3970ab036de70892d86c6d221abfe/2/1/21069.jpg",
+    "popularity": "high",
+    "category": "refrigerators"
+  },
+  {
+    "id": 2,
+    "prodname": "Samsung RR21T2H2XCR/HL",
+    "price": "16140",
+    "content": "198 L 4 Star Inverter Direct-Cool Single Door Refrigerator ( Camellia Purple, Base Stand with Drawer)",
+    "image": "https://images.samsung.com/is/image/samsung/in-one-door-rr21t2h2xcrhl-rr21t2h2xcr-hl-frontpurple-202206066?$2160_1728_PNG$",
+    "popularity": "moderate",
+    "category": "refrigerators"
+  },
+  {
+    "id": 3,
+    "prodname": "Godrej RD UNO 1854 PTI AQ BL",
+    "price": "13390",
+    "content": "185 L 4 Star Inverter Direct-Cool Single Door Refrigerator (Aqua Blue, Cool Lock Technology)",
+    "image": "https://m.media-amazon.com/images/I/61id5NxI2aS._SL1500_.jpg",
+    "popularity": "moderate",
+    "category": "refrigerators"
+  },
+  {
+    "id": 4,
+    "prodname": "LG GL-I292RPZL",
+    "price": "25545",
+    "content": "260 L 3 Star Smart Inverter Frost Free Double Door Refrigerator (Shiny Steel, With Ice Beam Door Cooling)",
+    "image": "https://www.lg.com/in/images/refrigerators/md05605803/gallery/01-1100.jpg",
+    "popularity": "high",
+    "category": "refrigerators"
+  },
+  {
+    "id": 5,
+    "prodname": "Haier HED- 20CFDS",
+    "price": "13690",
+    "content": "195 L 4 Star Direct-Cool Single-Door Refrigerator (Dazzle Steel)",
+    "image": "https://m.media-amazon.com/images/I/61DWru8Y9NL._SL1500_.jpg",
+    "popularity": "low",
+    "category": "refrigerators"
+  },
+  {
+    "id": 6,
+    "prodname": "Panasonic NR-CY550QKXZ",
+    "price": "79990",
+    "content": "551 L with Inverter Multi-Door Refrigerator (Sparkling Black Steel)",
+    "image": "https://www.greatworldappliances.com/wp-content/uploads/2020/10/nr-cy550gk-600x600.jpg",
+    "popularity": "high",
+    "category": "refrigerators"
+  },
+  {
+    "id": 7,
+    "prodname": "Bosch KDN46XI30I",
+    "price": "53990",
+    "content": "401 L 2 Star ( 2019 ) Frost Free Double Door Refrigerator(Chrome Inox Metallic, Inverter Compressor)",
+    "image": "https://www.compareprix.in/images/product/large/bosch-kdn46xi30i-401-litres-double-door-direct-cool-refrigerator-1.jpeg",
+    "popularity": "moderate",
+    "category": "refrigerators"
+  },
+  {
+    "id": 8,
+    "prodname": "Croma CRAR2621",
+    "price": "56990",
+    "content": "592 L (2019) Frost Free Double Door Side-by-Side Inverter Refrigerator (Silver)",
+    "image": "https://media.croma.com/image/upload/v1605289289/Croma%20Assets/Large%20Appliances/Refrigerator/Images/8944752132126.png",
+    "popularity": "moderate",
+    "category": "refrigerators"
+  },
+  {
+    "id": 9,
+    "prodname": "Whirlpool WDE 205 PRM 4S INV",
+    "price": "14490",
+    "content": "190 L 4 Star Inverter Direct-Cool Single Door Refrigerator (Sapphire Magnolia)",
+    "image": "https://m.media-amazon.com/images/I/51pOcwU7HWS._SL1200_.jpg",
+    "popularity": "low",
+    "category": "refrigerators"
+  },
+  {
+    "id": 10,
+    "prodname": "Haier HEB-35TDS",
+    "price": "34490",
+    "content": "346 L 3 Star Triple Inverter Bottom Mounted Refrigerator Convertible (Brushline Silver)",
+    "image": "https://m.media-amazon.com/images/I/71yPx7MW81L._SL1500_.jpg",
+    "popularity": "high",
+    "category": "refrigerators"
+  },
+
+  {
+    "id": 1,
+    "prodname": "Samsung WW60R20GLMA/TL",
+    "price": "21890",
+    "content": "6.0 Kg Inverter 5 Star Fully-Automatic Front Loading Washing Machine (White, Hygiene Steam)",
+    "image": "https://images.samsung.com/is/image/samsung/in-washer-wf652u2shwq-wf652u2shwq-tl-001-front-white?$624_624_PNG$",
+    "popularity": "high",
+    "category": "washing machines"
+  },
+  {
+    "id": 2,
+    "prodname": "LG P8035SGMZ",
+    "price": "13500",
+    "content": "8 Kg 5 Star Semi-Automatic Top Loading Washing Machine (Grey, Collar Scrubber)",
+    "image": "https://www.lg.com/in/images/washing-machines/md07533814/gallery/P8035SRAZ-Washing-Machines-Front-View-D-01.jpg",
+    "popularity": "low",
+    "category": "washing machines"
+  },
+  {
+    "id": 3,
+    "prodname": "Bosch WAJ2416EIN",
+    "price": "28490",
+    "content": "7 kg 5 Star 1200RPM INVERTER TOUCH CONTROL Fully Automatic Front Load with Heater White",
+    "image": "https://m.media-amazon.com/images/I/71dDkjYJMFS._SL1500_.jpg",
+    "popularity": "moderate",
+    "category": "washing machines"
+  },
+  {
+    "id": 4,
+    "prodname": "Lloyd LWMF70WX3",
+    "price": "26790",
+    "content": "7 Kg Fully Automatic Front load washing machine (White, 90° Self Clean)",
+    "image": "https://5.imimg.com/data5/NC/TD/UB/SELLER-48194842/lg-front-load-washing-machine-500x500.jpg",
+    "popularity": "high",
+    "category": "washing machines"
+  },
+  {
+    "id": 5,
+    "prodname": "IFB",
+    "price": "35300",
+    "content": "8kg 5 Star Fully-Automatic Front Loading Washing Machine (Senator WSS Steam, Silver, Inbuilt Heater, Aqua Energie Water Softener), Large",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/in/ww70t4020cx-tl/gallery/in-front-loading-washer-ww70t4020cheo-ww70t4020cx-tl-383435730?$720_576_PNG$",
+    "popularity": "moderate",
+    "category": "washing machines"
+  },
+  {
+    "id": 6,
+    "prodname": "LG FHM1006ADW",
+    "price": "23990",
+    "content": "6.0 Kg 5 Star Inverter Fully-Automatic Front Loading Washing Machine (White, Direct Drive Technology)",
+    "image": "https://www.fewabazar.com/images/thumbs/000/0006812_lg-f-1006nmts-6kg-front-load-washing-machine_550.jpeg",
+    "popularity": "moderate",
+    "category": "washing machines"
+  },
+  {
+    "id": 7,
+    "prodname": "Whirlpool WHITEMAGIC ROYAL 7.0 GENX",
+    "price": "15240",
+    "content": "7 Kg 5 Star Royal Fully-Automatic Top Loading Washing Machine (Grey, Hard Water Wash)",
+    "image": "https://m.media-amazon.com/images/I/61j25i+2K7L._SL1500_.jpg",
+    "popularity": "high",
+    "category": "washing machines"
+  },
+  {
+    "id": 8,
+    "prodname": "Godrej WT EON 620 A Gp Gr",
+    "price": "11990",
+    "content": "6.2 Kg Fully-Automatic Top Loading Washing Machine (Grey)",
+    "image": "http://n3.sdlcdn.com/imgs/b/x/e/Godrej-6-2-Kg-WT-SDL185830570-1-b035f.jpg",
+    "popularity": "low",
+    "category": "washing machines"
+  },
+  {
+    "id": 9,
+    "prodname": "TOSHIBA TWD-BK120M4-IND(SK)",
+    "price": "58490",
+    "content": "11/7 Kg Inverter Fully Automatic Front Loading Washing Dryer (Premium Silver)",
+    "image": "https://cdn.shopify.com/s/files/1/2697/4510/products/MFK868W.jpg?v=1627439016",
+    "popularity": "high",
+    "category": "washing machines"
+  },
+  {
+    "id": 10,
+    "prodname": "Panasonic NA-F60LF1HRB",
+    "price": "12590",
+    "content": "6 Kg 5 Star Fully-Automatic Top Loading Washing Machine (Grey)",
+    "image": "https://m.media-amazon.com/images/I/51nsVwsGTGL._SL1500_.jpg",
+    "popularity": "low",
+    "category": "washing machines"
+  },
+
+  {
+    "id": 1,
+    "prodname": "Whirlpool 1.5T MAGICOOL 3S COPR INVERTER",
+    "price": "29990",
+    "content": "1.5 Ton 3 Star Inverter Split AC (Copper, White)",
+    "image": "https://m.media-amazon.com/images/I/61Vs-rdtqvL._SL1500_.jpg",
+    "popularity": "high",
+    "category": "air conditioners"
+  },
+  {
+    "id": 2,
+    "prodname": "Samsung AR18AYLYATBNNA",
+    "price": "31990",
+    "content": "1.5 Ton 3 Star Inverter Split AC (Copper, Convertible 5 in 1, HD Filter, 2021 Model, Floral pattern)",
+    "image": "https://m.media-amazon.com/images/I/61N44JgNZjL._SL1500_.jpg",
+    "popularity": "high",
+    "category": "air conditioners"
+  },
+  {
+    "id": 3,
+    "prodname": "LG MS-Q18YNZA",
+    "price": "39990",
+    "content": "1.5 Ton 5 Star Inverter Split AC (Copper, Convertible 5-in-1 Cooling, HD Filter with Anti-Virus protection , 2021 Model, White)",
+    "image": "https://www.lg.com/in/images/AC/RAC-Gallery/D-02.jpg",
+    "popularity": "moderate",
+    "category": "air conditioners"
+  },
+  {
+    "id": 4,
+    "prodname": "Blue Star IC309RBTU",
+    "price": "25990",
+    "content": "0.8 Tons 3 Star Inverter Split AC(Copper, 2020 Model, White)",
+    "image": "https://assets.mspimages.in/c/tr:w-375,h-330,c-at_max/584650-220-1.jpg",
+    "popularity": "high",
+    "category": "air conditioners"
+  },
+  {
+    "id": 5,
+    "prodname": "TCL TAC-18CSD/EV5S",
+    "price": "32990",
+    "content": "1.5 Ton 5 Star Wi-Fi AI Ultra-Inverter Split AC (Copper, Vitamin C & Silver Ion Filter, 2021 Model, White)",
+    "image": "https://m.media-amazon.com/images/I/51REug8l+1L._SL1500_.jpg",
+    "popularity": "low",
+    "category": "air conditioners"
+  },
+  {
+    "id": 6,
+    "prodname": "Lloyd GLS18I56WRBP",
+    "price": "37490",
+    "content": "1.5 Ton 5 Star Inverter Split AC (Copper, Anti-Viral & PM 2.5 Filter, 2021 Model, White)",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31j2j+1k9CL.jpg",
+    "popularity": "moderate",
+    "category": "air conditioners"
+  },
+  {
+    "id": 7,
+    "prodname": "Croma CRAC7706",
+    "price": "28990",
+    "content": "1.5 Ton 3 Star Split Inverter AC (Copper, White) (2021 Model) with Free Installation",
+    "image": "https://m.media-amazon.com/images/I/419o3mYl4KS._SL1000_.jpg",
+    "popularity": "low",
+    "category": "air conditioners"
+  },
+  {
+    "id": 8,
+    "prodname": "Livpure HKS-IN12K3S19A",
+    "price": "26990",
+    "content": "1 Ton 3 Star Wi-Fi Inverter Split AC (Copper, EGAPA Filter, 2019 Model, White)",
+    "image": "https://m.media-amazon.com/images/I/51nrpDK+crL._SL1200_.jpg",
+    "popularity": "moderate",
+    "category": "air conditioners"
+  },
+  {
+    "id": 9,
+    "prodname": "Panasonic CS/CU-NU18WKYW",
+    "price": "38990",
+    "content": "1.5 Ton 5 Star Wi-Fi Twin Cool Inverter Split AC (Copper, PM 2.5 Filter, 2020 Model, White)",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2020/12/TU/VA/UN/2060741/panasonic-cs-cu-wu24wkyxf-2-ton-4-star-inverter-split-ac-shortlist-500x500.jpg",
+    "popularity": "high",
+    "category": "air conditioners"
+  },
+  {
+    "id": 10,
+    "prodname": "Voltas 2021 173V ADJ",
+    "price": "30990",
+    "content": "1.4 Ton 3 Star Inverter Split Adjustable AC (Copper, White)",
+    "image": "https://m.media-amazon.com/images/I/71h5D0-zXHL._SL1500_.jpg",
+    "popularity": "low",
+    "category": "air conditioners"
+  }
+]
